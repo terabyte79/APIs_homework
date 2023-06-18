@@ -8,10 +8,10 @@ The second part will be a retirement planning tool that will use the Alpaca API 
 
 For Part 1 of this homework, the following assumptions are being made:
 
-The average household income for each member of the credit union is $12,000.
-Every union member has a savings portfolio composed of cryptocurrencies, stocks, and bonds.
-Crypto assets: 1.2 BTC and 5.3 ETH.
-Shares in stocks and bonds: 50 SPY (stocks) and 200 AGG (bonds).
+- The average household income for each member of the credit union is $12,000.
+- Every union member has a savings portfolio composed of cryptocurrencies, stocks, and bonds.
+- Crypto assets: 1.2 BTC and 5.3 ETH.
+- Shares in stocks and bonds: 50 SPY (stocks) and 200 AGG (bonds).
 
 For Part 2 of this homework:
 
